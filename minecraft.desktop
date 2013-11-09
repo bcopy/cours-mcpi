@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Minecraft Pi Edition
+Comment=Launch Minecraft Pi Edition!
+Exec=sh -c 'cd ~/mcpi && lxterminal -l -t Minecraft -e ./minecraft-pi'
+Icon=/home/pi/mcpi/minecraft.png
+Terminal=false
+Type=Application
+Categories=Application;Games;
+StartupNotify=true
