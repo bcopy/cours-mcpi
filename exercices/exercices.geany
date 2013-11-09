@@ -14,7 +14,7 @@ indent_mode=2
 
 [project]
 name=exercices
-base_path=/home/pi/projects/exercices/
+base_path=/home/pi/exercices/
 description=
 file_patterns=*.py;
 
@@ -24,20 +24,20 @@ long_line_column=72
 
 [files]
 current_page=4
-FILE_NAME_0=123;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fmcpi%2Fexercises%2F01-01-deplacer-le-joueur.py;0;4
-FILE_NAME_1=228;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fmcpi%2Fexercises%2F01-02-poster-un-message.py;0;4
-FILE_NAME_2=241;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fmcpi%2Fexercises%2F01-03-ajouter-un-bloc.py;0;4
-FILE_NAME_3=336;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fmcpi%2Fexercises%2F01-04-construire-un-mur.py;0;4
-FILE_NAME_4=1655;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fmcpi%2Fexercises%2F01-05-batiment.py;0;4
+FILE_NAME_0=123;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-01-deplacer-le-joueur.py;0;4
+FILE_NAME_1=228;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-02-poster-un-message.py;0;4
+FILE_NAME_2=241;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-03-ajouter-un-bloc.py;0;4
+FILE_NAME_3=336;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-04-construire-un-mur.py;0;4
+FILE_NAME_4=1655;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-05-batiment.py;0;4
 
 [VTE]
-last_dir=/home/pi/mcpi/exercises
+last_dir=/home/pi/exercises
 
 [build-menu]
 EX_00_LB=_Execute
 EX_00_CM=PYTHONPATH=/home/pi/mcpi/api/python python "%f"
-EX_00_WD=/home/pi/mcpi/exercises
+EX_00_WD=/home/pi/exercices
 PythonFT_00_LB=_Compile
 PythonFT_00_CM=PYTHONPATH=/home/pi/mcpi/api/python python -B -m py_compile "%f"
-PythonFT_00_WD=/home/pi/mcpi/exercises
+PythonFT_00_WD=/home/pi/exercises
 filetypes=Python;
