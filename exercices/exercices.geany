@@ -23,15 +23,20 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=4
+current_page=9
 FILE_NAME_0=123;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-01-deplacer-le-joueur.py;0;4
-FILE_NAME_1=228;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-02-poster-un-message.py;0;4
+FILE_NAME_1=230;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-02-poster-un-message.py;0;4
 FILE_NAME_2=241;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-03-ajouter-un-bloc.py;0;4
 FILE_NAME_3=336;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-04-construire-un-mur.py;0;4
-FILE_NAME_4=1655;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-05-batiment.py;0;4
+FILE_NAME_4=1658;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F01-05-batiment.py;0;4
+FILE_NAME_5=469;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F02-02-le-nuage.py;0;4
+FILE_NAME_6=585;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F02-01-bis-faire-une-sphere.py;0;4
+FILE_NAME_7=0;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2Freference-types-de-blocs.py;0;4
+FILE_NAME_8=1108;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F02-03-la-chasse-au-tresor.py;0;4
+FILE_NAME_9=495;Python;0;16;1;1;0;%2Fhome%2Fpi%2Fexercices%2F02-01-faire-une-sphere.py;0;4
 
 [VTE]
-last_dir=/home/pi/exercises
+last_dir=/home/pi
 
 [build-menu]
 EX_00_LB=_Execute
@@ -39,5 +44,5 @@ EX_00_CM=PYTHONPATH=/home/pi/mcpi/api/python python "%f"
 EX_00_WD=/home/pi/exercices
 PythonFT_00_LB=_Compile
 PythonFT_00_CM=PYTHONPATH=/home/pi/mcpi/api/python python -B -m py_compile "%f"
-PythonFT_00_WD=/home/pi/exercises
+PythonFT_00_WD=/home/pi/exercices
 filetypes=Python;
